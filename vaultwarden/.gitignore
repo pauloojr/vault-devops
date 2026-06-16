@@ -1,0 +1,15 @@
+.terraform/
+ansible/access
+mvarela-io.pem
+todo
+ansible/access
+mvarela-io.pem
+terraform/.terraform/
+terraform/
+argocd
+app-vaultwarden
+application-working
+argocd
+traefik
+trivy-ok
+trivy
